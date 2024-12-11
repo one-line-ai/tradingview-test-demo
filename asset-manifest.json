@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tradingview-test-demo/static/css/main.3ce23c5e.css",
+    "main.js": "/tradingview-test-demo/static/js/main.4fe41fd9.js",
+    "static/js/453.642cdd69.chunk.js": "/tradingview-test-demo/static/js/453.642cdd69.chunk.js",
+    "index.html": "/tradingview-test-demo/index.html",
+    "main.3ce23c5e.css.map": "/tradingview-test-demo/static/css/main.3ce23c5e.css.map",
+    "main.4fe41fd9.js.map": "/tradingview-test-demo/static/js/main.4fe41fd9.js.map",
+    "453.642cdd69.chunk.js.map": "/tradingview-test-demo/static/js/453.642cdd69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce23c5e.css",
+    "static/js/main.4fe41fd9.js"
+  ]
+}
